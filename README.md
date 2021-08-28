@@ -2,7 +2,7 @@
 
 Check out: [The App](https://reactweatherapplicarion.netlify.app)
 
-If you want to try, ### `npm run build` and after ### `serve -s build`
+If you want to try, `npm run build` and after `serve -s build`
 
 This is a simple single page weather application. I made with OpenWeather (openweathermap.org).
 It is shows Budapest only.
